@@ -4,14 +4,16 @@ Pokedex with Flutter
 
 ## Screenshots
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-        <img src="images/img.png" alt="Drawing" style="width: 250px;"/>   
-    </div>
-     <div style="flex:1;padding-left:10px;">
-        <img src="images/img_1.png" alt="Drawing" style="width: 260px;"/>
-    </div>
-</div>
+ <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="images/img.png" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="images/img_1.png" width="200"/>
+            </td>
+        </tr>
+    </table>
 
 ## Getting Started
 
