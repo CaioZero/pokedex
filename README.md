@@ -3,9 +3,9 @@
 Pokedex with Flutter
 
 ## Screenshots
-![img.png](img.png)
+![img.png](images/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
