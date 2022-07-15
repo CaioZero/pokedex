@@ -3,9 +3,16 @@
 Pokedex with Flutter
 
 ## Screenshots
-![img.png](images/img.png)
 
-![img_1.png](images/img_1.png)
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+        <img src="images/img.png" alt="Drawing" style="width: 250px;"/>   
+    </div>
+     <div style="flex:1;padding-left:10px;">
+        <img src="images/img_1.png" alt="Drawing" style="width: 260px;"/>
+    </div>
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
